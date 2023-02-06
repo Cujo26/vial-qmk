@@ -27,14 +27,14 @@
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
  */
-#define MATRIX_ROW_PINS { B3, D4, F1, C6 }
-#define MATRIX_COL_PINS { F4, F5, B0, B2, B1, B4, D7, C7, D2, F7 }
+#define MATRIX_ROW_PINS { B1, B3, B2, B6 }
+#define MATRIX_COL_PINS { B5, B4, E6, D7, C6, D4, D0, D1, F7, F6 }
 
-/* Define encoder pads */
+/* Define encoder pads
 #define ENCODERS_PAD_A { D5 }
 #define ENCODERS_PAD_B { D3 }
-
+*/
 /*
  * WS2812 Underglow Matrix options
  */
-#define RGB_DI_PIN F0
+//#define RGB_DI_PIN F0

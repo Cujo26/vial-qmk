@@ -40,7 +40,7 @@
 #define RGBLED_NUM 11
 
 #define DRIVER_LED_TOTAL RGBLED_NUM
-
+/**
 #define RGBLIGHT_ANIMATIONS
 
 #ifdef RGB_MATRIX_ENABLE
@@ -53,3 +53,4 @@
 #define RGB_MATRIX_VAL_STEP 8
 #define RGB_MATRIX_SPD_STEP 10
 #endif
+*/
